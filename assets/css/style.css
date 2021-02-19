@@ -1,0 +1,19 @@
+h2 {
+  color: red;
+  color: #632145;
+  /*color: rgb*/
+}
+
+#test {
+  font-size: 25px;
+  color: blue;
+}
+
+#test2 {
+  background-color: brown;
+  color: aqua;
+}
+
+.green-text {
+  color: green;
+}
