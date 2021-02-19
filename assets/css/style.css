@@ -17,3 +17,22 @@ h2 {
 .green-text {
   color: green;
 }
+
+.main-link {
+  font-size: 35px;
+  text-decoration: none;
+  /*text-decoration-line: overline underline;
+  text-decoration-style: wavy;
+  text-decoration-color: #175c58;
+  text-decoration-thickness: 3px;*/
+}
+
+.bold-text {
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.download-style{
+  font-family: "Fira Fans", Arial, sans-serif;
+  font-weight: 800;
+}
